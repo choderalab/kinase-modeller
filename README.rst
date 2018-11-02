@@ -26,7 +26,7 @@ Package to extract kinase features from physical modeling
 Features
 --------
 
-* TODO
+When given a PDB code plus a chain index, this script collect information including (1) the kinase ID, (2) the standard name, (3) the KLIFS-defined structure ID, (4) the KLIFS-defined sequence of 85 binding pocket residues (http://klifs.vu-compmedchem.nl/index.php), (5) the indices of the 85 residues in the corresponding structure, and (6) residue indices involved in collective variables for kinase conformational changes and ligand interactions.
 
 Credits
 -------
